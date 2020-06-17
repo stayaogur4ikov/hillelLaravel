@@ -1,0 +1,9 @@
+{
+    "name": "dimk-pc/hillel-laravel",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
+}
